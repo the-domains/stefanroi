@@ -1,6 +1,6 @@
 name: "Stefan Roi's portfolio"
 favicon: null
-layout_spectrum: 0.4755843817256391
+layout_spectrum: 0
 typography_spectrum: 0.35899391304701567
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.021391152404248714
-  lightness: 0.7323192346375436
-  saturation: 0.5991118284873664
-  rhythmicContrast: 0.6651042532175779
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
