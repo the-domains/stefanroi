@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stefan Roi's portfolio]]></title>
+        <description><![CDATA[Stefan Roi's portfolio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 18:17:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing and Validating]]></title>
+            <description><![CDATA[<article><h1>Testing and Validating</h1><p>As I am wondering how the grid will evolve, I can state the following:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8f931cb8fab390842f5459e6a7621257ef87aa6.jpg"></article>]]></description>
+            <link>undefinedtesting-and-validating/index.html</link>
+            <guid isPermaLink="false">aa27aae6-3bee-4156-b6aa-04e478334c94</guid>
+            <pubDate>Fri, 29 Jan 2016 18:17:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
