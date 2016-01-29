@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Stefan Roi's portfolio]]></title>
         <description><![CDATA[Stefan Roi's portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stefanroi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 18:17:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 18:51:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stefanroi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>stefanroi@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f7681c3df5b7c6552a7dcad3ffa58396ba62901.png"></article>]]></description>
+            <link>https://thegrid.ai/stefanroi/contact/index.html</link>
+            <guid isPermaLink="false">77fbdde8-e3de-49b3-9fa8-73479fd79042</guid>
+            <pubDate>Fri, 29 Jan 2016 18:51:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testing and Validating]]></title>
-            <description><![CDATA[<article><h1>Testing and Validating</h1><p>As I am wondering how the grid will evolve, I can state the following:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8f931cb8fab390842f5459e6a7621257ef87aa6.jpg"></article>]]></description>
-            <link>undefinedtesting-and-validating/index.html</link>
+            <description><![CDATA[<article><h1>Testing and Validating</h1><p>As I am wondering how the grid will evolve, I can state the following:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83c39c6105ea09713d937a87df7f14a614ab0dbe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stefanroi/testing-and-validating/index.html</link>
             <guid isPermaLink="false">aa27aae6-3bee-4156-b6aa-04e478334c94</guid>
             <pubDate>Fri, 29 Jan 2016 18:17:05 GMT</pubDate>
         </item>
